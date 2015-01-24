@@ -1,0 +1,2 @@
+1 - verifier orthographes
+2 - numeroté les slides

@@ -1,0 +1,24 @@
+9 sujet / avec un sujet  de 3
+-------------------------------------------------------
+*1  web / asp.net* / sharpMap* / postgis ou autre / mzerda + zada + ettaya
+**2  desktop / vb.net ou c# / sharpMap / postgis* / zarqane + ouakili
+***3  web / vb.net ou c# / arcObjects- flex / arcgis server-sqlserver / mchimcha
+****4  desktop / java* / geotools*-geotoolkit*-geomajas*-geodjango*/postgis ou autre / guessous,  hadouch
+*****5  web/java*/geotools*-geotoolkit*-geomajas*-geodjango*/postgis ou autre / mersaoui + nidal
+******6  web/javascript*/Openlayers*-geoExt*/Geoserver* / imami, yasser
+*******7  web/javascript*/Google Maps API*/ php-Mysql / jaber + merzak
+********8  web/python/GeoDjango*/mysql spatial* , il traite les couche ou autre / nouamen + sodor
+il faut converter les donner vers des fichier xml,gml
+
+*********9  desktop/python*/ArcPy*/arcgis Desktop / me + habachi
+
+
+
+
+* important de le presenter (effectue un petit cours)
+
+
+education civique : il va etre un projet de terain 
+ + mise a jour (autre trancon ajouter)
+ + les nom incorrect (les corriger)
+ + les numero (projet de thése geocodage)
